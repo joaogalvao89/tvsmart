@@ -1,6 +1,6 @@
 #EXTM3U
 
-‪#‎EXTINF‬:-LISTA HD TESTE
+‪#‎EXTINF‬:-1,PT:HD TESTE
 
 ‪#‎EXTINF‬:-1,PT: RTP 1
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3208.ts
